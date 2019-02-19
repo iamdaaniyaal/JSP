@@ -1,0 +1,9 @@
+1. Scriptlet
+2. Declaration.
+3. Expression.
+4. Page directive.
+5. Include directive.
+6. Implicit objects - Out, Request, Response, Exception, PageContext, session.
+7. Action Tag - Include.
+8. Action Tag - Forward.
+9. Perform DML operation using JSP and JDBC.
